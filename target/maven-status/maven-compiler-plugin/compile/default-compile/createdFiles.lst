@@ -1,0 +1,9 @@
+padroes\projeto\gof\spring\service\impl\ClienteServiceImpl.class
+padroes\projeto\gof\spring\controller\ClienteRestController.class
+br\com\dio\padroesprojetogofspring\PadroesProjetoGofSpringApplication.class
+padroes\projeto\gof\spring\repositories\ClienteRepository.class
+padroes\projeto\gof\spring\repositories\EnderecoRepository.class
+padroes\projeto\gof\spring\service\ClienteService.class
+padroes\projeto\gof\spring\service\ViaCepService.class
+padroes\projeto\gof\spring\entities\Cliente.class
+padroes\projeto\gof\spring\entities\Endereco.class
